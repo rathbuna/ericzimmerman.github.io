@@ -2,4 +2,4 @@
 
 [Home](index.md)
 [About](about.md)
-[Download](download.md)
+[Documentation](documentation.md)
