@@ -1,3 +1,4 @@
+
 |Forensic tools  |Version| Purpose| 
 |--|--|--
 | LECmd  | [1.0.0.0](https://ericzimmerman.github.io/Software/LECmd.zip) | Parse lnk files
@@ -29,7 +30,7 @@
 ## Requirements and troubleshooting
 
  - All software requires at least [Microsoft .net 4.6](https://www.microsoft.com/en-us/download/details.aspx?id=48137) or newer! You will get errors running these without at least 4.6. When in doubt, install it!
- - DO NOT RUN ANYTHING FOUND HERE FROM 'C:\PROGRAM FILES' DIRECTORY (unless you run them as administrator)!
- - DO NOT USE WINDOWS TO EXTRACT THINGS. USE 7-Zip or Winrar as Windows will block the DLLs!
+ - **DO NOT RUN ANYTHING FOUND HERE FROM 'C:\PROGRAM FILES' DIRECTORY** (unless you run them as administrator)!
+ - **DO NOT USE WINDOWS TO EXTRACT THINGS.** USE 7-Zip or Winrar as Windows will block the DLLs!
  - Any anti-virus hits are false positives and the warnings can be ignored.
- - If you get DPI scaling issues, make a shortcut, edit the properties, and disable DPI scaling under Compatibility
+ - **If you get DPI scaling issues, make a shortcut, edit the properties, and disable DPI scaling under Compatibility**
