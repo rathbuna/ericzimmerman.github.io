@@ -1,7 +1,3 @@
-
-
-#  Eric Zimmerman's tools
-
 |Forensic tools  |Version| Purpose| 
 |--|--|--
 | LECmd  | [1.0.0.0](https://ericzimmerman.github.io/Software/LECmd.zip) | Parse lnk files
