@@ -2,4 +2,5 @@
 
 [Home](index.md)
 [Documentation](documentation.md)
-[gimmick:themechooser](readable)
+[gimmick:themechooser](Choose theme)
+[gimmick:theme](flatly)
