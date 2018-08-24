@@ -2,3 +2,4 @@
 
 [Home](index.md)
 [Documentation](documentation.md)
+[gimmick:themechooser](readable)
