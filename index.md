@@ -9,7 +9,7 @@
 |	Registry Explorer/RECmd | [1.0.0.4](https://ericzimmerman.github.io/Software/RegistryExplorer_RECmd.zip)| Registy viewer with searching, multi-hive support, plugins, and more
 |	ShellBags Explorer | [1.0.0.2](https://ericzimmerman.github.io/Software/ShellBagsExplorer.zip)| GUI for browsing shellbags data
 |	SDB Explorer | [0.5.1.0](https://ericzimmerman.github.io/Software/SDBExplorer.zip)| Shim database GUI
-|	AppCompatCacheParser | [1.0.0.1](https://ericzimmerman.github.io/Software/AppCompatCacheParser.zip)| AppCompatCahe aka ShimCache parser
+|	AppCompatCacheParser | [1.0.0.1](https://ericzimmerman.github.io/Software/AppCompatCacheParser.zip)| AppCompatCache aka ShimCache parser
 |	AmcacheParser | [1.0.0.3](https://ericzimmerman.github.io/Software/AmcacheParser.zip) | Amcache.hve parser with lots of extra features
 |	JumpList Explorer | [0.6.1.0](https://ericzimmerman.github.io/Software/JumpListExplorer.zip) | GUI based Jump List viewer 
 |	Timeline Explorer | [0.8.5.3](https://ericzimmerman.github.io/Software/TimelineExplorer.zip) | View CSV and Excel files, filter, group, sort, etc. with ease
