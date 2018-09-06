@@ -5,7 +5,7 @@
 |	Hasher | [1.8.0.0](https://ericzimmerman.github.io/Software/hasher.zip)| Hash all the things
 |	PECmd  | [1.0.0.1](https://ericzimmerman.github.io/Software/PECmd.zip)| Prefetch parser
 |	JLECmd | [1.0.0.0](https://ericzimmerman.github.io/Software/JLECmd.zip)| Jump List parser
-|	bstrings | [ 1.3.0.0](https://ericzimmerman.github.io/Software/bstrings.zip)| Find them strings yo
+|	bstrings | [ 1.4.0.0](https://ericzimmerman.github.io/Software/bstrings.zip)| Find them strings yo. Handles locked files too
 |	Registry Explorer/RECmd | [1.0.0.4](https://ericzimmerman.github.io/Software/RegistryExplorer_RECmd.zip)| Registy viewer with searching, multi-hive support, plugins, and more
 |	ShellBags Explorer | [1.0.0.2](https://ericzimmerman.github.io/Software/ShellBagsExplorer.zip)| GUI for browsing shellbags data
 |	SDB Explorer | [0.5.1.0](https://ericzimmerman.github.io/Software/SDBExplorer.zip)| Shim database GUI
