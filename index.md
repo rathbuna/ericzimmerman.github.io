@@ -16,7 +16,7 @@
 |	RecentFileCacheParser | [0.6.0.0](https://ericzimmerman.github.io/Software/RecentFileCacheParser.zip) | RecentFileCache parser
 | WxTCmd | [0.2.1.0](https://ericzimmerman.github.io/Software/WxTCmd.zip) | Windows 10 Timeline database parser
 | MFTECmd |[0.2.9.1](https://ericzimmerman.github.io/Software/MFTECmd.zip) | $MFT parser
-| VSCMount |[0.5.0.0](https://ericzimmerman.github.io/Software/VSCMount.zip) | VSCMount. Mount all VSCs on a drive letter to a given mount point
+| VSCMount |[0.5.1.0](https://ericzimmerman.github.io/Software/VSCMount.zip) | VSCMount. Mount all VSCs on a drive letter to a given mount point
 
 
 ***
