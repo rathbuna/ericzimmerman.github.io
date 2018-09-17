@@ -11,7 +11,7 @@
 | MFTECmd |[0.3.0.0](https://ericzimmerman.github.io/Software/MFTECmd.zip) | $MFT parser
 | PECmd  | [1.1.0.0](https://ericzimmerman.github.io/Software/PECmd.zip)| Prefetch parser
 | RecentFileCacheParser | [0.7.0.0](https://ericzimmerman.github.io/Software/RecentFileCacheParser.zip) | RecentFileCache parser
-| Registry Explorer/RECmd | [1.1.0.1](https://ericzimmerman.github.io/Software/RegistryExplorer_RECmd.zip)| Registy viewer with searching, multi-hive support, plugins, and more
+| Registry Explorer/RECmd | [1.1.0.4](https://ericzimmerman.github.io/Software/RegistryExplorer_RECmd.zip)| Registy viewer with searching, multi-hive support, plugins, and more
 | SDB Explorer | [0.6.0.0](https://ericzimmerman.github.io/Software/SDBExplorer.zip)| Shim database GUI
 | ShellBags Explorer | [1.1.0.1](https://ericzimmerman.github.io/Software/ShellBagsExplorer.zip)| GUI for browsing shellbags data
 | Timeline Explorer | [0.8.6.0](https://ericzimmerman.github.io/Software/TimelineExplorer.zip) | View CSV and Excel files, filter, group, sort, etc. with ease
