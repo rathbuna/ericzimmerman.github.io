@@ -34,5 +34,5 @@
  - All software requires at least [Microsoft .net 4.6](https://www.microsoft.com/en-us/download/details.aspx?id=48137) or newer! You will get errors running these without at least 4.6. When in doubt, install it!
  - **DO NOT RUN ANYTHING FOUND HERE FROM 'C:\PROGRAM FILES' DIRECTORY** (unless you run them as administrator)!
  - **DO NOT USE WINDOWS TO EXTRACT THINGS.** Use 7-Zip or Winrar as Windows will block the DLLs!
- - Any anti-virus hits are false positives and the warnings can be ignored.
+ - All software is digitally signed. Once you verify the signature as coming from me, any anti-virus hits are false positives. When in doubt, download the files directly from here!
  - **If you get DPI scaling issues, make a shortcut, edit the properties, and disable DPI scaling under Compatibility**
