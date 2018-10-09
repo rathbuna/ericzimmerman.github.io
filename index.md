@@ -5,9 +5,9 @@
 | AppCompatCacheParser | [1.1.0.0](https://ericzimmerman.github.io/Software/AppCompatCacheParser.zip)| AppCompatCache aka ShimCache parser
 | bstrings | [ 1.4.1.0](https://ericzimmerman.github.io/Software/bstrings.zip)| Find them strings yo. Built in regex patterns and handles locked files too
 | Hasher | [1.9.0.0](https://ericzimmerman.github.io/Software/hasher.zip)| Hash all the things
-| JLECmd | [1.1.0.0](https://ericzimmerman.github.io/Software/JLECmd.zip)| Jump List parser
-| JumpList Explorer | [0.7.0.0](https://ericzimmerman.github.io/Software/JumpListExplorer.zip) | GUI based Jump List viewer 
-| LECmd  | [1.1.0.0](https://ericzimmerman.github.io/Software/LECmd.zip) | Parse lnk files
+| JLECmd | [1.1.0.1](https://ericzimmerman.github.io/Software/JLECmd.zip)| Jump List parser
+| JumpList Explorer | [0.7.0.1](https://ericzimmerman.github.io/Software/JumpListExplorer.zip) | GUI based Jump List viewer 
+| LECmd  | [1.1.0.1](https://ericzimmerman.github.io/Software/LECmd.zip) | Parse lnk files
 | MFTECmd |[0.3.0.0](https://ericzimmerman.github.io/Software/MFTECmd.zip) | $MFT parser
 | PECmd  | [1.2.0.0](https://ericzimmerman.github.io/Software/PECmd.zip)| Prefetch parser
 | RecentFileCacheParser | [0.7.0.0](https://ericzimmerman.github.io/Software/RecentFileCacheParser.zip) | RecentFileCache parser
