@@ -1,8 +1,8 @@
 
 |Forensic tools  |Version| Purpose| 
 |--|--|--
-| AmcacheParser | [1.2.0.1](https://ericzimmerman.github.io/Software/AmcacheParser.zip) | Amcache.hve parser with lots of extra features
-| AppCompatCacheParser | [1.2.0.0](https://ericzimmerman.github.io/Software/AppCompatCacheParser.zip)| AppCompatCache aka ShimCache parser
+| AmcacheParser | [1.2.0.2](https://ericzimmerman.github.io/Software/AmcacheParser.zip) | Amcache.hve parser with lots of extra features
+| AppCompatCacheParser | [1.3.0.0](https://ericzimmerman.github.io/Software/AppCompatCacheParser.zip)| AppCompatCache aka ShimCache parser
 | bstrings | [ 1.4.1.0](https://ericzimmerman.github.io/Software/bstrings.zip)| Find them strings yo. Built in regex patterns and handles locked files too
 | Hasher | [1.9.0.0](https://ericzimmerman.github.io/Software/hasher.zip)| Hash all the things
 | JLECmd | [1.1.0.1](https://ericzimmerman.github.io/Software/JLECmd.zip)| Jump List parser
@@ -13,7 +13,7 @@
 | RecentFileCacheParser | [0.7.0.0](https://ericzimmerman.github.io/Software/RecentFileCacheParser.zip) | RecentFileCache parser
 | Registry Explorer/RECmd | [1.1.0.6](https://ericzimmerman.github.io/Software/RegistryExplorer_RECmd.zip)| Registy viewer with searching, multi-hive support, plugins, and more
 | SDB Explorer | [0.6.0.0](https://ericzimmerman.github.io/Software/SDBExplorer.zip)| Shim database GUI
-| ShellBags Explorer | [1.1.0.1](https://ericzimmerman.github.io/Software/ShellBagsExplorer.zip)| GUI for browsing shellbags data
+| ShellBags Explorer | [1.2.0.0](https://ericzimmerman.github.io/Software/ShellBagsExplorer.zip)| GUI for browsing shellbags data
 | Timeline Explorer | [0.8.8.0](https://ericzimmerman.github.io/Software/TimelineExplorer.zip) | View CSV and Excel files, filter, group, sort, etc. with ease
 | VSCMount |[0.5.2.0](https://ericzimmerman.github.io/Software/VSCMount.zip) | Mount all VSCs on a drive letter to a given mount point
 | WxTCmd | [0.3.0.0](https://ericzimmerman.github.io/Software/WxTCmd.zip) | Windows 10 Timeline database parser
