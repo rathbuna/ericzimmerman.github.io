@@ -18,7 +18,6 @@
 | VSCMount |[0.5.2.0](https://ericzimmerman.github.io/Software/VSCMount.zip) | Mount all VSCs on a drive letter to a given mount point
 | WxTCmd | [0.3.0.0](https://ericzimmerman.github.io/Software/WxTCmd.zip) | Windows 10 Timeline database parser
 
-
 ***
 
 |Other tools  |Version| Purpose
@@ -26,7 +25,6 @@
 | iisGeoLocate | [1.4.0.0](https://ericzimmerman.github.io/Software/iisGeolocate.zip)| Geolocate IP addresses found in IIS logs
 | TimeApp | [NA](https://ericzimmerman.github.io/Software/TimeApp.zip)| A simple app that shows current time (local and UTC) and optionally, public IP address. Great for testing
 | XWFIM | [NA](https://ericzimmerman.github.io/Software/XWFIM.zip) | X-Ways Forensics installation manager
-
 
 ***
 ## Requirements and troubleshooting
