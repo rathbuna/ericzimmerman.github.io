@@ -16,7 +16,7 @@
 | ShellBags Explorer | [1.2.0.0](https://ericzimmerman.github.io/Software/ShellBagsExplorer.zip)| GUI for browsing shellbags data
 | Timeline Explorer | [0.8.8.0](https://ericzimmerman.github.io/Software/TimelineExplorer.zip) | View CSV and Excel files, filter, group, sort, etc. with ease
 | VSCMount |[0.5.2.0](https://ericzimmerman.github.io/Software/VSCMount.zip) | Mount all VSCs on a drive letter to a given mount point
-| WxTCmd | [0.3.0.0](https://ericzimmerman.github.io/Software/WxTCmd.zip) | Windows 10 Timeline database parser
+| WxTCmd | [0.3.1.0](https://ericzimmerman.github.io/Software/WxTCmd.zip) | Windows 10 Timeline database parser
 
 ***
 
