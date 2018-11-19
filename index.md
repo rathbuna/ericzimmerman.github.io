@@ -10,6 +10,7 @@
 | LECmd  | [1.1.0.2](https://ericzimmerman.github.io/Software/LECmd.zip) | Parse lnk files
 | MFTECmd |[0.3.3.0](https://ericzimmerman.github.io/Software/MFTECmd.zip) | $MFT parser
 | PECmd  | [1.2.0.0](https://ericzimmerman.github.io/Software/PECmd.zip)| Prefetch parser
+| RBCmd  | [0.3.0.0](https://ericzimmerman.github.io/Software/RBCmd.zip)| Recycle Bin artifact (INFO2/$I) parser
 | RecentFileCacheParser | [0.7.0.0](https://ericzimmerman.github.io/Software/RecentFileCacheParser.zip) | RecentFileCache parser
 | Registry Explorer/RECmd | [1.1.0.6](https://ericzimmerman.github.io/Software/RegistryExplorer_RECmd.zip)| Registy viewer with searching, multi-hive support, plugins, and more
 | SDB Explorer | [0.6.0.0](https://ericzimmerman.github.io/Software/SDBExplorer.zip)| Shim database GUI
