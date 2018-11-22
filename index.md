@@ -1,7 +1,7 @@
 
 |Forensic tools  |Version| Purpose| 
 |--|--|--
-| AmcacheParser | [1.2.0.3](https://ericzimmerman.github.io/Software/AmcacheParser.zip) | Amcache.hve parser with lots of extra features
+| AmcacheParser | [1.2.0.4](https://ericzimmerman.github.io/Software/AmcacheParser.zip) | Amcache.hve parser with lots of extra features
 | AppCompatCacheParser | [1.3.0.0](https://ericzimmerman.github.io/Software/AppCompatCacheParser.zip)| AppCompatCache aka ShimCache parser
 | bstrings | [ 1.4.1.0](https://ericzimmerman.github.io/Software/bstrings.zip)| Find them strings yo. Built in regex patterns and handles locked files too
 | Hasher | [1.9.0.0](https://ericzimmerman.github.io/Software/hasher.zip)| Hash all the things
