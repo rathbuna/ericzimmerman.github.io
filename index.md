@@ -38,4 +38,4 @@
 
 ***
 
-![Donate](https://ericzimmerman.github.io/Quarter48.png) *[Donate](https://www.patreon.com/ericzimmerman)*
+![Donate](https://ericzimmerman.github.io/Quarter48.png "Donate") **[Donate](https://www.patreon.com/ericzimmerman)**
