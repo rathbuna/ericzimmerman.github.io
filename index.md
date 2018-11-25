@@ -1,16 +1,16 @@
 
 |Forensic tools  |Version| Purpose| 
 |--|--|--
-| AmcacheParser | [1.2.0.5](https://ericzimmerman.github.io/Software/AmcacheParser.zip) | Amcache.hve parser with lots of extra features
-| AppCompatCacheParser | [1.3.0.1](https://ericzimmerman.github.io/Software/AppCompatCacheParser.zip)| AppCompatCache aka ShimCache parser
+| AmcacheParser | [1.2.0.7](https://ericzimmerman.github.io/Software/AmcacheParser.zip) | Amcache.hve parser with lots of extra features
+| AppCompatCacheParser | [1.3.0.2](https://ericzimmerman.github.io/Software/AppCompatCacheParser.zip)| AppCompatCache aka ShimCache parser
 | bstrings | [ 1.4.1.0](https://ericzimmerman.github.io/Software/bstrings.zip)| Find them strings yo. Built in regex patterns and handles locked files too
 | Hasher | [1.9.0.0](https://ericzimmerman.github.io/Software/hasher.zip)| Hash all the things
-| JLECmd | [1.1.0.1](https://ericzimmerman.github.io/Software/JLECmd.zip)| Jump List parser
+| JLECmd | [1.1.0.2](https://ericzimmerman.github.io/Software/JLECmd.zip)| Jump List parser
 | JumpList Explorer | [0.7.0.1](https://ericzimmerman.github.io/Software/JumpListExplorer.zip) | GUI based Jump List viewer 
-| LECmd  | [1.1.0.2](https://ericzimmerman.github.io/Software/LECmd.zip) | Parse lnk files
-| MFTECmd |[0.3.3.0](https://ericzimmerman.github.io/Software/MFTECmd.zip) | $MFT parser
-| PECmd  | [1.2.0.0](https://ericzimmerman.github.io/Software/PECmd.zip)| Prefetch parser
-| RBCmd  | [0.3.0.0](https://ericzimmerman.github.io/Software/RBCmd.zip)| Recycle Bin artifact (INFO2/$I) parser
+| LECmd  | [1.1.0.3](https://ericzimmerman.github.io/Software/LECmd.zip) | Parse lnk files
+| MFTECmd |[0.3.4.0](https://ericzimmerman.github.io/Software/MFTECmd.zip) | $MFT parser
+| PECmd  | [1.2.0.1](https://ericzimmerman.github.io/Software/PECmd.zip)| Prefetch parser
+| RBCmd  | [0.3.0.1](https://ericzimmerman.github.io/Software/RBCmd.zip)| Recycle Bin artifact (INFO2/$I) parser
 | RecentFileCacheParser | [0.7.0.0](https://ericzimmerman.github.io/Software/RecentFileCacheParser.zip) | RecentFileCache parser
 | Registry Explorer/RECmd | [1.1.0.6](https://ericzimmerman.github.io/Software/RegistryExplorer_RECmd.zip)| Registy viewer with searching, multi-hive support, plugins, and more
 | SDB Explorer | [0.6.0.0](https://ericzimmerman.github.io/Software/SDBExplorer.zip)| Shim database GUI
