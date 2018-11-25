@@ -35,3 +35,7 @@
  - **DO NOT USE WINDOWS TO EXTRACT THINGS.** Use 7-Zip or Winrar as Windows will block the DLLs!
  - All software is digitally signed. Once you verify the signature as coming from me, any anti-virus hits are false positives. When in doubt, download the files directly from here!
  - **If you get DPI scaling issues, make a shortcut, edit the properties, and disable DPI scaling under Compatibility**
+
+***
+
+[Donate](https://www.patreon.com/ericzimmerman)
