@@ -37,4 +37,6 @@
  - **If you get DPI scaling issues, make a shortcut, edit the properties, and disable DPI scaling under Compatibility**
 
 ***
-[![Donate](https://ericzimmerman.github.io/Quarter48.png)](https://www.patreon.com/ericzimmerman) **[Donate](https://www.patreon.com/ericzimmerman)**
+[![Donate](https://ericzimmerman.github.io/Quarter48.png)](https://www.patreon.com/ericzimmerman) **[Patreon](https://www.patreon.com/ericzimmerman)**
+
+[![Donate](https://ericzimmerman.github.io/Quarter48.png)](https://paypal.me/ericrzimmerman) **[Paypal](https://paypal.me/ericrzimmerman)**
