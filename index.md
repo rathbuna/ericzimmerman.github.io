@@ -34,7 +34,7 @@
  - **DO NOT RUN ANYTHING FOUND HERE FROM 'C:\PROGRAM FILES' DIRECTORY** (unless you run them as administrator)!
  - **DO NOT USE WINDOWS TO EXTRACT THINGS.** Use 7-Zip or Winrar as Windows will block the DLLs!
  - All software is digitally signed. Once you verify the signature as coming from me, any anti-virus hits are false positives. When in doubt, download the files directly from here!
- - **If you get DPI scaling issues, make a shortcut, edit the properties, then click Compatibility. Under Change high DPI settings, check Override high DPI scaling behavior at bottom and choose System, then click OK out of the dialog**
+ - **If you get DPI scaling issues, make a shortcut (or directly against the exe), edit the properties, then click Compatibility. Under Change high DPI settings, check Override high DPI scaling behavior at bottom and choose System, then click OK out of the dialog**
 
 ***
 [![Donate](https://ericzimmerman.github.io/Quarter48.png)](https://www.patreon.com/ericzimmerman) **[Patreon](https://www.patreon.com/ericzimmerman)**
