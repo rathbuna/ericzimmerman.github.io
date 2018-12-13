@@ -28,6 +28,12 @@
 | XWFIM | [NA](https://f001.backblazeb2.com/file/EricZimmermanTools/XWFIM.zip) | X-Ways Forensics installation manager
 
 ***
+
+|Other files  |Version| Purpose
+|--|--|--
+| nlog.config | [NA](https://f001.backblazeb2.com/file/EricZimmermanTools/nlog.config)| Place this in same directory as CLI tools and you can alter the colors used. Good for white background with blank font, etc. Do not change anything but the colors.
+
+***
 ## Requirements and troubleshooting
 
  - All software requires at least [Microsoft .net 4.6](https://www.microsoft.com/en-us/download/details.aspx?id=48137) or newer! You will get errors running these without at least 4.6. When in doubt, install it!
