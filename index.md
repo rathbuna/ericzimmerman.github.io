@@ -31,7 +31,7 @@
 
 |Other files  |Version| Purpose
 |--|--|--
-| nlog.config | [NA](https://f001.backblazeb2.com/file/EricZimmermanTools/nlog.config)| Place this in same directory as CLI tools and you can alter the colors used. Good for white background with blank font, etc. Do not change anything but the colors.
+| nlog.config | [NA](https://f001.backblazeb2.com/file/EricZimmermanTools/nlog.config)| Place this in same directory as CLI tools and you can alter the colors used. Good for white background with black font, etc. Do not change anything but the colors.
 
 ***
 ## Requirements and troubleshooting
