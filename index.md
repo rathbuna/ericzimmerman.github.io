@@ -11,7 +11,7 @@
 | MFTECmd |[0.3.6.1](https://f001.backblazeb2.com/file/EricZimmermanTools/MFTECmd.zip) | $MFT, $Boot, $J, $SDS, and $LogFile parser
 | PECmd  | [1.2.0.1](https://f001.backblazeb2.com/file/EricZimmermanTools/PECmd.zip)| Prefetch parser
 | RBCmd  | [0.3.0.2](https://f001.backblazeb2.com/file/EricZimmermanTools/RBCmd.zip)| Recycle Bin artifact (INFO2/$I) parser
-| RecentFileCacheParser | [0.7.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/RecentFileCacheParser.zip) | RecentFileCache parser
+| RecentFileCacheParser | [0.7.0.1](https://f001.backblazeb2.com/file/EricZimmermanTools/RecentFileCacheParser.zip) | RecentFileCache parser
 | Registry Explorer/RECmd | [1.1.0.6](https://f001.backblazeb2.com/file/EricZimmermanTools/RegistryExplorer_RECmd.zip)| Registy viewer with searching, multi-hive support, plugins, and more
 | SDB Explorer | [0.6.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/SDBExplorer.zip)| Shim database GUI
 | ShellBags Explorer | [1.2.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/ShellBagsExplorer.zip)| GUI for browsing shellbags data
