@@ -1,20 +1,20 @@
 
 |Forensic tools  |Version| Purpose| 
 |--|--|--
-| AmcacheParser | [1.2.0.7](https://f001.backblazeb2.com/file/EricZimmermanTools/AmcacheParser.zip) | Amcache.hve parser with lots of extra features
-| AppCompatCacheParser | [1.3.0.2](https://f001.backblazeb2.com/file/EricZimmermanTools/AppCompatCacheParser.zip)| AppCompatCache aka ShimCache parser
-| bstrings | [ 1.4.1.0](https://f001.backblazeb2.com/file/EricZimmermanTools/bstrings.zip)| Find them strings yo. Built in regex patterns and handles locked files too
+| AmcacheParser | [1.3.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/AmcacheParser.zip) | Amcache.hve parser with lots of extra features. Handles locked files
+| AppCompatCacheParser | [1.4.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/AppCompatCacheParser.zip)| AppCompatCache aka ShimCache parser. Handles locked files
+| bstrings | [ 1.4.1.0](https://f001.backblazeb2.com/file/EricZimmermanTools/bstrings.zip)| Find them strings yo. Built in regex patterns. Handles locked files
 | Hasher | [1.9.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/hasher.zip)| Hash all the things
 | JLECmd | [1.2.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/JLECmd.zip)| Jump List parser
 | JumpList Explorer | [0.8.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/JumpListExplorer.zip) | GUI based Jump List viewer 
 | LECmd  | [1.2.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/LECmd.zip) | Parse lnk files
-| MFTECmd |[0.3.6.2](https://f001.backblazeb2.com/file/EricZimmermanTools/MFTECmd.zip) | $MFT, $Boot, $J, $SDS, and $LogFile parser
+| MFTECmd |[0.4.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/MFTECmd.zip) | $MFT, $Boot, $J, $SDS, and $LogFile parser. Handles locked files
 | PECmd  | [1.2.0.2](https://f001.backblazeb2.com/file/EricZimmermanTools/PECmd.zip)| Prefetch parser
 | RBCmd  | [0.3.0.2](https://f001.backblazeb2.com/file/EricZimmermanTools/RBCmd.zip)| Recycle Bin artifact (INFO2/$I) parser
 | RecentFileCacheParser | [0.7.0.1](https://f001.backblazeb2.com/file/EricZimmermanTools/RecentFileCacheParser.zip) | RecentFileCache parser
-| Registry Explorer/RECmd | [1.2.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/RegistryExplorer_RECmd.zip)| Registy viewer with searching, multi-hive support, plugins, and more
+| Registry Explorer/RECmd | [1.3.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/RegistryExplorer_RECmd.zip)| Registy viewer with searching, multi-hive support, plugins, and more. Handles locked files
 | SDB Explorer | [0.6.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/SDBExplorer.zip)| Shim database GUI
-| ShellBags Explorer | [1.2.0.1](https://f001.backblazeb2.com/file/EricZimmermanTools/ShellBagsExplorer.zip)| GUI for browsing shellbags data
+| ShellBags Explorer | [1.3.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/ShellBagsExplorer.zip)| GUI for browsing shellbags data. Handles locked files
 | Timeline Explorer | [0.8.12.0](https://f001.backblazeb2.com/file/EricZimmermanTools/TimelineExplorer.zip) | View CSV and Excel files, filter, group, sort, etc. with ease
 | VSCMount |[0.5.2.0](https://f001.backblazeb2.com/file/EricZimmermanTools/VSCMount.zip) | Mount all VSCs on a drive letter to a given mount point
 | WxTCmd | [0.3.1.0](https://f001.backblazeb2.com/file/EricZimmermanTools/WxTCmd.zip) | Windows 10 Timeline database parser
