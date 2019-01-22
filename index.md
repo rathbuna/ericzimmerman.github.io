@@ -26,6 +26,9 @@
 | iisGeoLocate | [1.4.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/iisGeolocate.zip)| Geolocate IP addresses found in IIS logs
 | TimeApp | [NA](https://f001.backblazeb2.com/file/EricZimmermanTools/TimeApp.zip)| A simple app that shows current time (local and UTC) and optionally, public IP address. Great for testing
 | XWFIM | [NA](https://f001.backblazeb2.com/file/EricZimmermanTools/XWFIM.zip) | X-Ways Forensics installation manager
+| Get-ZimmermanTools | [NA](https://f001.backblazeb2.com/file/EricZimmermanTools/Get-ZimmermanTools.zip) | PowerShell script to auto discover and update everything above.
+
+
 
 ***
 
