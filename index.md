@@ -6,14 +6,14 @@
 | bstrings | [ 1.4.3.0](https://f001.backblazeb2.com/file/EricZimmermanTools/bstrings.zip)| Find them strings yo. Built in regex patterns. Handles locked files
 | EZViewer | [0.5.2.1](https://f001.backblazeb2.com/file/EricZimmermanTools/EZViewer.zip)| Standalone, zero dependency viewer for .doc, .docx, .xls, .xlsx, .txt, .log, .rtf, .otd, .htm, .html, .mht, .csv, and .pdf. Any non-supported files are shown in a hex editor (with data interpreter!)
 | Hasher | [1.9.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/hasher.zip)| Hash all the things
-| JLECmd | [1.2.2.0](https://f001.backblazeb2.com/file/EricZimmermanTools/JLECmd.zip)| Jump List parser
-| JumpList Explorer | [0.8.1.0](https://f001.backblazeb2.com/file/EricZimmermanTools/JumpListExplorer.zip) | GUI based Jump List viewer 
-| LECmd  | [1.2.2.0](https://f001.backblazeb2.com/file/EricZimmermanTools/LECmd.zip) | Parse lnk files
+| JLECmd | [1.2.3.0](https://f001.backblazeb2.com/file/EricZimmermanTools/JLECmd.zip)| Jump List parser
+| JumpList Explorer | [0.8.2.0](https://f001.backblazeb2.com/file/EricZimmermanTools/JumpListExplorer.zip) | GUI based Jump List viewer 
+| LECmd  | [1.2.3.0](https://f001.backblazeb2.com/file/EricZimmermanTools/LECmd.zip) | Parse lnk files
 | MFTECmd |[0.4.1.1](https://f001.backblazeb2.com/file/EricZimmermanTools/MFTECmd.zip) | $MFT, $Boot, $J, $SDS, and $LogFile parser. Handles locked files
 | PECmd  | [1.3.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/PECmd.zip)| Prefetch parser
 | RBCmd  | [0.4.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/RBCmd.zip)| Recycle Bin artifact (INFO2/$I) parser
 | RecentFileCacheParser | [0.7.0.1](https://f001.backblazeb2.com/file/EricZimmermanTools/RecentFileCacheParser.zip) | RecentFileCache parser
-| Registry Explorer/RECmd | [1.3.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/RegistryExplorer_RECmd.zip)| Registy viewer with searching, multi-hive support, plugins, and more. Handles locked files
+| Registry Explorer/RECmd | [1.3.0.1](https://f001.backblazeb2.com/file/EricZimmermanTools/RegistryExplorer_RECmd.zip)| Registy viewer with searching, multi-hive support, plugins, and more. Handles locked files
 | SDB Explorer | [0.6.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/SDBExplorer.zip)| Shim database GUI
 | ShellBags Explorer | [1.3.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/ShellBagsExplorer.zip)| GUI for browsing shellbags data. Handles locked files
 | Timeline Explorer | [0.8.13.0](https://f001.backblazeb2.com/file/EricZimmermanTools/TimelineExplorer.zip) | View CSV and Excel files, filter, group, sort, etc. with ease
