@@ -1,3 +1,4 @@
+[![Logo](https://ericzimmerman.github.io/logoSmall.jpg)
 
 |Forensic tools  |Version| Purpose| 
 |--|--|--
