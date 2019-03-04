@@ -1,3 +1,6 @@
+<p align="center">
+  <img  src="https://ericzimmerman.github.io/logoSmall.jpg">
+</p>
 
 |Forensic tools  |Version| Purpose| 
 |--|--|--
