@@ -9,9 +9,9 @@
 | bstrings | [ 1.5.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/bstrings.zip)| Find them strings yo. Built in regex patterns. Handles locked files
 | EZViewer | [0.5.4.0](https://f001.backblazeb2.com/file/EricZimmermanTools/EZViewer.zip)| Standalone, zero dependency viewer for .doc, .docx, .xls, .xlsx, .txt, .log, .rtf, .otd, .htm, .html, .mht, .csv, and .pdf. Any non-supported files are shown in a hex editor (with data interpreter!)
 | Hasher | [1.9.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/hasher.zip)| Hash all the things
-| JLECmd | [1.2.3.0](https://f001.backblazeb2.com/file/EricZimmermanTools/JLECmd.zip)| Jump List parser
-| JumpList Explorer | [0.8.2.0](https://f001.backblazeb2.com/file/EricZimmermanTools/JumpListExplorer.zip) | GUI based Jump List viewer 
-| LECmd  | [1.2.3.0](https://f001.backblazeb2.com/file/EricZimmermanTools/LECmd.zip) | Parse lnk files
+| JLECmd | [1.3.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/JLECmd.zip)| Jump List parser
+| JumpList Explorer | [1.3.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/JumpListExplorer.zip) | GUI based Jump List viewer 
+| LECmd  | [1.3.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/LECmd.zip) | Parse lnk files
 | MFTECmd |[0.4.3.0](https://f001.backblazeb2.com/file/EricZimmermanTools/MFTECmd.zip) | $MFT, $Boot, $J, $SDS, and $LogFile parser. Handles locked files
 | PECmd  | [1.3.1.0](https://f001.backblazeb2.com/file/EricZimmermanTools/PECmd.zip)| Prefetch parser
 | RBCmd  | [0.4.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/RBCmd.zip)| Recycle Bin artifact (INFO2/$I) parser
