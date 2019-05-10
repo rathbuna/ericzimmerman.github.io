@@ -28,7 +28,7 @@
 
 |Other tools  |Version| Purpose
 |--|--|--
-| KAPE | [NA](https://learn.duffandphelps.com/kape?utm_campaign=2019_cyberitbn-KAPE-launch&utm_source=kroll&utm_medium=referral&utm_term=kape-gui-blogpost) | KAPE
+| KAPE | [NA](https://learn.duffandphelps.com/kape?utm_campaign=2019_cyberitbn-KAPE-launch&utm_source=kroll&utm_medium=referral&utm_term=kape-gui-blogpost) | Kroll Artifact Parser/Extractor: Flexible, high speed collection of files as well as processing of files. Many many features
 | iisGeoLocate | [1.4.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/iisGeolocate.zip)| Geolocate IP addresses found in IIS logs
 | TimeApp | [NA](https://f001.backblazeb2.com/file/EricZimmermanTools/TimeApp.zip)| A simple app that shows current time (local and UTC) and optionally, public IP address. Great for testing
 | XWFIM | [NA](https://f001.backblazeb2.com/file/EricZimmermanTools/XWFIM.zip) | X-Ways Forensics installation manager
