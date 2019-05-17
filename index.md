@@ -15,7 +15,7 @@
 | LECmd  | [1.3.2.0](https://f001.backblazeb2.com/file/EricZimmermanTools/LECmd.zip) | Parse lnk files
 | MFTECmd |[0.4.4.2](https://f001.backblazeb2.com/file/EricZimmermanTools/MFTECmd.zip) | $MFT, $Boot, $J, $SDS, and $LogFile (coming soon) parser. Handles locked files
 | PECmd  | [1.3.2.0](https://f001.backblazeb2.com/file/EricZimmermanTools/PECmd.zip)| Prefetch parser
-| RBCmd  | [0.4.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/RBCmd.zip)| Recycle Bin artifact (INFO2/$I) parser
+| RBCmd  | [0.4.1.0](https://f001.backblazeb2.com/file/EricZimmermanTools/RBCmd.zip)| Recycle Bin artifact (INFO2/$I) parser
 | RecentFileCacheParser | [0.7.0.1](https://f001.backblazeb2.com/file/EricZimmermanTools/RecentFileCacheParser.zip) | RecentFileCache parser
 | Registry Explorer/RECmd | [1.4.2.0](https://f001.backblazeb2.com/file/EricZimmermanTools/RegistryExplorer_RECmd.zip)| Registy viewer with searching, multi-hive support, plugins, and more. Handles locked files
 | SDB Explorer | [0.6.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/SDBExplorer.zip)| Shim database GUI
