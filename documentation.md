@@ -1,1 +1,1 @@
-Coming soon
+Coming soon for EZ Tools, but go [here](https://ericzimmerman.github.io/KapeDocs/) for KAPE!
