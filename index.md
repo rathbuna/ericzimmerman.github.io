@@ -1,8 +1,16 @@
 <p align="center">
-  <img  src="https://ericzimmerman.github.io/logoSmall.jpg">
+  <img src="https://ericzimmerman.github.io/logoSmall.jpg">
 </p>
 
-|Forensic tools  |Version| Purpose| 
+
+## TL;DR
+
+1. READ the [Requirements and troubleshooting](https://ericzimmerman.github.io/#!index.md#Requirements_and_troubleshooting) section!!
+2. Use [Get-ZimmermanTools](https://f001.backblazeb2.com/file/EricZimmermanTools/Get-ZimmermanTools.zip) to download all programs at once
+
+## Forensic tools
+
+|Name  |Version| Purpose| 
 |--|--|--
 | AmcacheParser | [1.3.3.0](https://f001.backblazeb2.com/file/EricZimmermanTools/AmcacheParser.zip) | Amcache.hve parser with lots of extra features. Handles locked files
 | AppCompatCacheParser | [1.4.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/AppCompatCacheParser.zip)| AppCompatCache aka ShimCache parser. Handles locked files
@@ -27,7 +35,9 @@
 
 ***
 
-|Other tools  |Version| Purpose
+## Other tools
+
+|Name  |Version| Purpose
 |--|--|--
 | KAPE | [NA](https://learn.duffandphelps.com/kape?utm_campaign=2019_cyberitbn-KAPE-launch&utm_source=kroll&utm_medium=referral&utm_term=kape-gui-blogpost) | Kroll Artifact Parser/Extractor: Flexible, high speed collection of files as well as processing of files. Many many features
 | iisGeoLocate | [1.5.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/iisGeolocate.zip)| Geolocate IP addresses found in IIS logs
@@ -39,7 +49,10 @@
 
 ***
 
-|Other files  |Version| Purpose
+
+## Other files
+
+|Name  |Version| Purpose
 |--|--|--
 | nlog.config | [NA](https://f001.backblazeb2.com/file/EricZimmermanTools/nlog.config)| Place this in same directory as CLI tools and you can alter the colors used. Good for white background with black font, etc. Do not change anything but the colors.
 | Change log | [NA](https://f001.backblazeb2.com/file/EricZimmermanTools/ChangeLog.txt)| 
