@@ -13,7 +13,7 @@
 |Name  |Version| Purpose| 
 |--|--|--
 | AmcacheParser | [1.3.4.0](https://f001.backblazeb2.com/file/EricZimmermanTools/AmcacheParser.zip) | Amcache.hve parser with lots of extra features. Handles locked files
-| AppCompatCacheParser | [1.4.2.0](https://f001.backblazeb2.com/file/EricZimmermanTools/AppCompatCacheParser.zip)| AppCompatCache aka ShimCache parser. Handles locked files
+| AppCompatCacheParser | [1.4.3.0](https://f001.backblazeb2.com/file/EricZimmermanTools/AppCompatCacheParser.zip)| AppCompatCache aka ShimCache parser. Handles locked files
 | bstrings | [ 1.5.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/bstrings.zip)| Find them strings yo. Built in regex patterns. Handles locked files
 | EZViewer | [0.5.6.0](https://f001.backblazeb2.com/file/EricZimmermanTools/EZViewer.zip)| Standalone, zero dependency viewer for .doc, .docx, .xls, .xlsx, .txt, .log, .rtf, .otd, .htm, .html, .mht, .csv, and .pdf. Any non-supported files are shown in a hex editor (with data interpreter!)
 | Evtx Explorer/EvtxECmd | [0.5.2.0](https://f001.backblazeb2.com/file/EricZimmermanTools/EvtxExplorer.zip)| Event log (evtx) parser with standardized CSV, XML, and json output! Custom maps, locked file support, and more!
@@ -29,7 +29,7 @@
 | Registry Explorer/RECmd | [1.5.1.1](https://f001.backblazeb2.com/file/EricZimmermanTools/RegistryExplorer_RECmd.zip)| Registry viewer with searching, multi-hive support, plugins, and more. Handles locked files
 | SDB Explorer | [0.6.1.0](https://f001.backblazeb2.com/file/EricZimmermanTools/SDBExplorer.zip)| Shim database GUI
 | ShellBags Explorer | [1.3.3.0](https://f001.backblazeb2.com/file/EricZimmermanTools/ShellBagsExplorer.zip)| GUI for browsing shellbags data. Handles locked files
-| Timeline Explorer | [0.9.3.2](https://f001.backblazeb2.com/file/EricZimmermanTools/TimelineExplorer.zip) | View CSV and Excel files, filter, group, sort, etc. with ease
+| Timeline Explorer | [0.9.4.1](https://f001.backblazeb2.com/file/EricZimmermanTools/TimelineExplorer.zip) | View CSV and Excel files, filter, group, sort, etc. with ease
 | VSCMount |[0.5.3.0](https://f001.backblazeb2.com/file/EricZimmermanTools/VSCMount.zip) | Mount all VSCs on a drive letter to a given mount point
 | WxTCmd | [0.3.2.0](https://f001.backblazeb2.com/file/EricZimmermanTools/WxTCmd.zip) | Windows 10 Timeline database parser
 
