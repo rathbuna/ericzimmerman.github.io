@@ -8,6 +8,10 @@
 1. READ the [Requirements and troubleshooting](https://ericzimmerman.github.io/#!index.md#Requirements_and_troubleshooting) section!!
 2. Use [Get-ZimmermanTools](https://f001.backblazeb2.com/file/EricZimmermanTools/Get-ZimmermanTools.zip) to download all programs at once
 
+[![Donate](https://ericzimmerman.github.io/Quarter16.png)](https://github.com/sponsors/EricZimmerman) **[GitHub Sponsors](https://github.com/sponsors/EricZimmerman)**
+
+[![Donate](https://ericzimmerman.github.io/Quarter16.png)](https://paypal.me/ericrzimmerman) **[Paypal](https://paypal.me/ericrzimmerman)**
+
 ## Forensic tools
 
 |Name  |Version| Purpose| 
@@ -29,7 +33,7 @@
 | Registry Explorer/RECmd | [1.5.2.0](https://f001.backblazeb2.com/file/EricZimmermanTools/RegistryExplorer_RECmd.zip)| Registry viewer with searching, multi-hive support, plugins, and more. Handles locked files
 | SDB Explorer | [0.6.1.0](https://f001.backblazeb2.com/file/EricZimmermanTools/SDBExplorer.zip)| Shim database GUI
 | ShellBags Explorer | [1.3.3.0](https://f001.backblazeb2.com/file/EricZimmermanTools/ShellBagsExplorer.zip)| GUI for browsing shellbags data. Handles locked files
-| Timeline Explorer | [0.9.4.1](https://f001.backblazeb2.com/file/EricZimmermanTools/TimelineExplorer.zip) | View CSV and Excel files, filter, group, sort, etc. with ease
+| Timeline Explorer | [0.9.5.0](https://f001.backblazeb2.com/file/EricZimmermanTools/TimelineExplorer.zip) | View CSV and Excel files, filter, group, sort, etc. with ease
 | VSCMount |[0.5.3.0](https://f001.backblazeb2.com/file/EricZimmermanTools/VSCMount.zip) | Mount all VSCs on a drive letter to a given mount point
 | WxTCmd | [0.3.2.0](https://f001.backblazeb2.com/file/EricZimmermanTools/WxTCmd.zip) | Windows 10 Timeline database parser
 
@@ -70,8 +74,6 @@
  - **If you get DPI scaling issues, make a shortcut (or directly against the exe), edit the properties, then click Compatibility. Under Change high DPI settings, check Override high DPI scaling behavior at bottom and choose System, then click OK out of the dialog**
 
 ***
-[![Donate](https://ericzimmerman.github.io/Quarter16.png)](https://github.com/sponsors/EricZimmerman) **[GitHub Sponsors](https://github.com/sponsors/EricZimmerman)**
 
-[![Donate](https://ericzimmerman.github.io/Quarter16.png)](https://paypal.me/ericrzimmerman) **[Paypal](https://paypal.me/ericrzimmerman)**
 
 Open Source Development funding and support provided by the following contributors: [SANS Institute](http://sans.org/) and [SANS DFIR](http://dfir.sans.org/).
