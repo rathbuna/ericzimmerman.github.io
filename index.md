@@ -14,6 +14,10 @@
 
 [![Donate](https://ericzimmerman.github.io/Quarter16.png)](https://paypal.me/ericrzimmerman) **[Paypal](https://paypal.me/ericrzimmerman)**
 
+[![Donate](https://ericzimmerman.github.io/Quarter16.png)](https://www.patreon.com/ericzimmerman) **[Patreon](https://www.patreon.com/ericzimmerman)**
+
+
+
 ## Forensic tools
 
 |Name  |Version| Purpose| 
