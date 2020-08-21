@@ -40,7 +40,7 @@
 | SDB Explorer | [1.0.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/SDBExplorer.zip)| Shim database GUI
 | ShellBags Explorer | [1.4.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/ShellBagsExplorer.zip)| GUI for browsing shellbags data. Handles locked files
 | SQLECmd | [0.5.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/SQLECmd.zip)| Find and process SQLite files according to your needs with maps!
-| Timeline Explorer | [1.0.0.2](https://f001.backblazeb2.com/file/EricZimmermanTools/TimelineExplorer.zip) | View CSV and Excel files, filter, group, sort, etc. with ease
+| Timeline Explorer | [1.1.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/TimelineExplorer.zip) | View CSV and Excel files, filter, group, sort, etc. with ease
 | VSCMount |[1.0.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/VSCMount.zip) | Mount all VSCs on a drive letter to a given mount point
 | WxTCmd | [0.5.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/WxTCmd.zip) | Windows 10 Timeline database parser
 
