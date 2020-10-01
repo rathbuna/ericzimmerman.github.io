@@ -26,7 +26,7 @@
 | AppCompatCacheParser | [1.4.4.0](https://f001.backblazeb2.com/file/EricZimmermanTools/AppCompatCacheParser.zip)| AppCompatCache aka ShimCache parser. Handles locked files
 | bstrings | [ 1.5.1.0](https://f001.backblazeb2.com/file/EricZimmermanTools/bstrings.zip)| Find them strings yo. Built in regex patterns. Handles locked files
 | EZViewer | [1.0.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/EZViewer.zip)| Standalone, zero dependency viewer for .doc, .docx, .xls, .xlsx, .txt, .log, .rtf, .otd, .htm, .html, .mht, .csv, and .pdf. Any non-supported files are shown in a hex editor (with data interpreter!)
-| Evtx Explorer/EvtxECmd | [0.6.0.1](https://f001.backblazeb2.com/file/EricZimmermanTools/EvtxExplorer.zip)| Event log (evtx) parser with standardized CSV, XML, and json output! Custom maps, locked file support, and more!
+| Evtx Explorer/EvtxECmd | [0.6.0.2](https://f001.backblazeb2.com/file/EricZimmermanTools/EvtxExplorer.zip)| Event log (evtx) parser with standardized CSV, XML, and json output! Custom maps, locked file support, and more!
 | Hasher | [1.9.3.0](https://f001.backblazeb2.com/file/EricZimmermanTools/hasher.zip)| Hash all the things
 | JLECmd | [1.4.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/JLECmd.zip)| Jump List parser
 | JumpList Explorer | [1.4.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/JumpListExplorer.zip) | GUI based Jump List viewer 
@@ -40,7 +40,7 @@
 | SDB Explorer | [1.0.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/SDBExplorer.zip)| Shim database GUI
 | ShellBags Explorer | [1.4.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/ShellBagsExplorer.zip)| GUI for browsing shellbags data. Handles locked files
 | SQLECmd | [0.5.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/SQLECmd.zip)| Find and process SQLite files according to your needs with maps!
-| Timeline Explorer | [1.1.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/TimelineExplorer.zip) | View CSV and Excel files, filter, group, sort, etc. with ease
+| Timeline Explorer | [1.1.1.0](https://f001.backblazeb2.com/file/EricZimmermanTools/TimelineExplorer.zip) | View CSV and Excel files, filter, group, sort, etc. with ease
 | VSCMount |[1.0.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/VSCMount.zip) | Mount all VSCs on a drive letter to a given mount point
 | WxTCmd | [0.5.0.0](https://f001.backblazeb2.com/file/EricZimmermanTools/WxTCmd.zip) | Windows 10 Timeline database parser
 
